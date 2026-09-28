@@ -194,7 +194,7 @@ const PRODUCTS = [
 
     {
         id: "shirt-001",
-        name: "Classic White Shirt",
+        name: "Purple Textured Long Sleeve Shirt",
         category: "shirts",
         image: "images/shirts/shirt-1.webp",
         featured: true,
@@ -203,7 +203,7 @@ const PRODUCTS = [
 
     {
         id: "shirt-002",
-        name: "Premium Black Shirt",
+        name: "Black & White Patterned Shirt",
         category: "shirts",
         image: "images/shirts/shirt-2.webp",
         featured: true,
@@ -212,7 +212,7 @@ const PRODUCTS = [
 
     {
         id: "shirt-003",
-        name: "Classic Blue Shirt",
+        name: "Earth Tone Casual Shirt",
         category: "shirts",
         image: "images/shirts/shirt-3.webp",
         featured: true,
@@ -385,7 +385,7 @@ const PRODUCTS = [
 
     {
         id: "polo-001",
-        name: "Classic Black Polo",
+        name: "Patterned Black & White Polo",
         category: "polos",
         image: "images/polos/polo-1.webp",
         featured: true,
@@ -394,7 +394,7 @@ const PRODUCTS = [
 
     {
         id: "polo-002",
-        name: "Classic White Polo",
+        name: "Earth Tone Casual Polo",
         category: "polos",
         image: "images/polos/polo-2.webp",
         featured: true,
@@ -403,7 +403,7 @@ const PRODUCTS = [
 
     {
         id: "polo-003",
-        name: "Navy Polo",
+        name: "Navy Stripe Polo",
         category: "polos",
         image: "images/polos/polo-3.webp",
         featured: false,
@@ -517,7 +517,7 @@ const PRODUCTS = [
 
     {
         id: "cap-001",
-        name: "Classic Black Cap",
+        name: "Multi-Color NY Cap",
         category: "caps",
         image: "images/caps/cap-1.webp",
         featured: true,
@@ -526,7 +526,7 @@ const PRODUCTS = [
 
     {
         id: "cap-002",
-        name: "Premium Logo Cap",
+        name: "Two-Tone NY Cap",
         category: "caps",
         image: "images/caps/cap-2.webp",
         featured: false,
@@ -535,7 +535,7 @@ const PRODUCTS = [
 
     {
         id: "cap-003",
-        name: "Classic Navy Cap",
+        name: "Vintage Adjustable Cap",
         category: "caps",
         image: "images/caps/cap-3.webp",
         featured: false,
